@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\bin\Debug\net8.0\D08.exe
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\bin\Debug\net8.0\D08.deps.json
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\bin\Debug\net8.0\D08.runtimeconfig.json
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\bin\Debug\net8.0\D08.dll
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\bin\Debug\net8.0\D08.pdb
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.AssemblyInfo.cs
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.sourcelink.json
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.dll
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\refint\D08.dll
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.pdb
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\D08.genruntimeconfig.cache
+C:\Users\aluno\Desktop\DesafiosCSharp\Modulo1\D08\obj\Debug\net8.0\ref\D08.dll
