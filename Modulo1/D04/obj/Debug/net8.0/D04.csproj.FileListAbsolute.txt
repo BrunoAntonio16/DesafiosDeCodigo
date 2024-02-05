@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\D04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\D04.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\D04.AssemblyInfo.cs
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\D04.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\DesafiosPOO\D04\bin\Debug\net8.0\D04.exe
+C:\Users\aluno\Desktop\DesafiosPOO\D04\bin\Debug\net8.0\D04.deps.json
+C:\Users\aluno\Desktop\DesafiosPOO\D04\bin\Debug\net8.0\D04.runtimeconfig.json
+C:\Users\aluno\Desktop\DesafiosPOO\D04\bin\Debug\net8.0\D04.dll
+C:\Users\aluno\Desktop\DesafiosPOO\D04\bin\Debug\net8.0\D04.pdb
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\D04.dll
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\refint\D04.dll
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\D04.pdb
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\D04.genruntimeconfig.cache
+C:\Users\aluno\Desktop\DesafiosPOO\D04\obj\Debug\net8.0\ref\D04.dll
