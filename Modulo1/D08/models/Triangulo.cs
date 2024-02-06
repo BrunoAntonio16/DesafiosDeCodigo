@@ -26,9 +26,9 @@ namespace D08.models
             triangulo.LadoB = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Informe o valor da altura do triangulo: ");
             triangulo.Altura = Convert.ToDouble(Console.ReadLine());
-            var AEB = LadoA + LadoB;
-            var AEC = LadoA + LadoC;
-            var BEC = LadoB + LadoC;
+            var AEB = triangulo.LadoA + triangulo.LadoB;
+            var AEC = triangulo.LadoA + triangulo.LadoC;
+            var BEC = triangulo.LadoB + triangulo.LadoC;
             if (AEB > LadoC && AEC > LadoB && BEC > LadoA)
             {
                 var areaTriangulo = (triangulo.LadoC * triangulo.Altura) / 2;
