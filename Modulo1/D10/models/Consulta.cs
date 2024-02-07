@@ -11,9 +11,14 @@ namespace D10.models
         public string Titulo { get; set; }
         public DateTime Data { get; set; }
         public StatusConsulta Status { get; set; }
+        public string nomePaciente { get; set; }
         public Consulta()
         {
 
+        }
+        public Consulta(StatusConsulta status)
+        {
+            Status = status;
         }
     }
 }

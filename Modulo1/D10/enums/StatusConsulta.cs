@@ -4,5 +4,6 @@ namespace D10.enums
     {
         Realizada = 1,
         NaoRealizada = 2,
+        SemStatus = 3,
     }
 }
